@@ -1,3 +1,5 @@
+--Data Analysis
+
 -- Query * FROM Each Table Confirming Data
 SELECT * FROM Departments;
 SELECT * FROM Dept_emp;
